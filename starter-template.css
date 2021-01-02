@@ -18,6 +18,14 @@ body {
 	background-color: #B21D23 !important;
 }
 
+.rosette1 {
+
+    background: url(./img/rosette1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: contain;
+}
+	
 
 footer p{
 	color: white;
